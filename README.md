@@ -1,15 +1,5 @@
 Online Routing Mapper v0.8
 ==========
-
-
-(C) 2015 by Mehmet Selim BILGIN
-
-mselimbilgin [at] yahoo.com
-
-http://cbsuygulama.wordpress.com
-
-
-
 ###Description
 You dont need data anymore to calculate routes for your maps. Just point the start and stop locations. It will generate routes by using online services.
 
